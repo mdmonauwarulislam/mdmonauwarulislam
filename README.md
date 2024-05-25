@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Monauwarul Islam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Enthusiastic Frontend Developer currently in the 4th year of a Computer Science degree. Proficient in HTML, CSS, JavaScript, and Tailwind CSS, with experience in React. Passionate about creating responsive, user-friendly web interfaces. Skilled in collaborating on team projects, optimizing web performance, and using Git for version control. Eager to apply academic knowledge to real-world development challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmonauwarulislam&label=Profile%20views&color=0e75b6&style=flat" alt="mdmonauwarulislam" /> </p>
 
