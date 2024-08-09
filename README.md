@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Monauwarul Islam</h1>
-<h3 align="center">Enthusiastic Frontend Developer currently in the 4th year of a Computer Science degree. Proficient in HTML, CSS, JavaScript, and Tailwind CSS, with experience in React. Passionate about creating responsive, user-friendly web interfaces. Skilled in collaborating on team projects, optimizing web performance, and using Git for version control. Eager to apply academic knowledge to real-world development challenges.</h3>
+<h3 align="center">I am a Full Stack Developer with a strong focus on software development. I have hands-on experience in creating and managing both frontend and backend systems, specializing in technologies like Node.js. I enjoy learning new skills, solving problems, and building projects that can make a positive impact. I am also knowledgeable in various programming languages and tools, and I like to stay updated with the latest technology trends</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmonauwarulislam&label=Profile%20views&color=0e75b6&style=flat" alt="mdmonauwarulislam" /> </p>
 
