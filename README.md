@@ -84,9 +84,10 @@
   <a href="https://www.instagram.com/mr.mannu/" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
   </a>
-  <a href="https://x.com/monauwarulislam" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/x/default.svg" width="52" height="40" alt="X logo" />
-  </a>
+ <a href="https://x.com/monauwarulislam" style="text-decoration:none;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/X_logo.svg/1024px-X_logo.svg.png" width="52" height="40" alt="X logo" />
+</a>
+
   <a href="https://discord.com/channels/@me/mdmonauwarulislam" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
   </a>
