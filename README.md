@@ -1,8 +1,4 @@
-Here's an updated version of your profile with additional details:
-
----
-
-<h2 align="left">Hi 👋, I'm Md Monauwarul Islam</h2>
+<h2 align="left"Hi 👋, I'm Md Monauwarul Islam</h2>
 
 ###
 
@@ -36,12 +32,12 @@ Here's an updated version of your profile with additional details:
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
 ###
@@ -50,21 +46,4 @@ Here's an updated version of your profile with additional details:
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
----
-
-### About Me
-
-I'm Md Monauwarul Islam, a passionate Full Stack Developer with a focus on creating impactful software solutions. I am currently working on [TechPlus](https://www.techplus.com), a platform dedicated to providing cutting-edge tech insights and solutions.
-
-Feel free to connect with me on:
-
-- [YouTube](https://www.youtube.com/@mdmonauwarulislam)
-- [Instagram](https://www.instagram.com/mr.mannu)
-- [Twitch](https://www.twitch.tv/)
-- [Discord](https://discord.com/)
-- [Gmail](mailto:mdmonauwarulislam@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/mdmonauwarulislam)
-- [Twitter](https://twitter.com/yourusername/)
-- [Portfolio](https://www.yourportfolio.com/)
-
----
+###
