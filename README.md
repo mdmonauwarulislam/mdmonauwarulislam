@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src = "./header.png"/>
+  <img src="./header.png" alt="Header Image" style="width: 100%;" />
 </div>
 <h1>Hey 👋, I'm Md Monauwarul Islam</h1>
 
