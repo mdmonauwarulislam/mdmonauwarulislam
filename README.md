@@ -1,13 +1,13 @@
 <h1 ">Hey 👋, I'm Md Monauwarul Islam</h1>
 
-<p>Full Stack Developer working on impactful projects and exploring new technologies. 👨‍💻</p>
+<h3>Full Stack Developer working on impactful projects and exploring new technologies. 👨‍💻</h3>
 
 <h2>ABOUT ME</h2>
 
-<p>   🚀 Creating impactful solutions
+<h3>   🚀 Creating impactful solutions
 <br>    🌱 Currently mastering Full Stack development 
 <br>    🎯 Goal: To build meaningful applications and make a positive impact 
-<br>    💡 Fun Fact: I love combining coding skills to tackle exciting challenges! 💻</p>
+<br>    💡 Fun Fact: I love combining coding skills to tackle exciting challenges! 💻</h3>
 
 
 
@@ -96,12 +96,17 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mdmonauwarulislam/?trk=public_profile_browsemap&originalSubdomain=in" style="text-decoration:none;">`
-  <img src="https://raw.githubusercontent.com/mdmonauwarulislam/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/hibbanrahmanhyt" style="text-decoration:none;">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
+ <a href="https://www.linkedin.com/in/mdmonauwarulislam/?trk=public_profile_browsemap&originalSubdomain=in" style="text-decoration:none;">
+  <img src="https://raw.githubusercontent.com/mdmonauwarulislam/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+</a>
+<a href="https://www.instagram.com/mr.mannu/" style="text-decoration:none;">
+  <img src="https://raw.githubusercontent.com/mdmonauwarulislam/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
+</a>
+
+ <a href="https://x.com/monauwarulislam" style="text-decoration:none;">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="X logo"  />
+</a>
+
   <a href="https://discord.com/channels/@me/mdmonauwarulislam" style="text-decoration:none;">
   
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
