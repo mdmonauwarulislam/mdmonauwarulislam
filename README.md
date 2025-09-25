@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Monauwarul_banner" alt="Header Image" style="width: 100%;" />
+  <img src="Monauwarul_banner.png" alt="Header Image" style="width: 100%;" />
 </div>
 
 <h1 align="center">Hey 👋, I'm Md Monauwarul Islam</h1>
