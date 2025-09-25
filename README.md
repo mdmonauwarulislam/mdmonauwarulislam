@@ -60,7 +60,10 @@
 <hr/>
 
 <h2>🌍 Profile Visitors</h2>
-<div align="center"> <img src="https://profile-counter.glitch.me/mdmonauwarulislam/count.svg?" alt="Profile Counter"/> </div>
+<div style="text-align: center;">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mdmonauwarulislam.visitor-badge&left_color=red&right_color=green&left_text=Profile%20Visitors" alt="Visitor Badge" />
+</div>
+
 
 <hr/>
 
