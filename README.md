@@ -1,98 +1,93 @@
-
 <div align="center">
-  <img src="./header.png" alt="Header Image" style="width: 100%;" />
+  <img src="./Monauwarul_banner" alt="Header Image" style="width: 100%;" />
 </div>
-<h1>Hey 👋, I'm Md Monauwarul Islam</h1>
 
-<h3>Full Stack Developer working on impactful projects and exploring new technologies. 👨‍💻</h3>
+<h1 align="center">Hey 👋, I'm Md Monauwarul Islam</h1>
 
-<h2>ABOUT ME</h2>
+<h3 align="center">🚀 Full Stack Developer | MERN | Next.js | Java | Exploring Tech & Building Impactful Projects</h3>
 
-<h3>
-  🚀 Creating impactful solutions<br>
-  🌱 Currently mastering Full Stack development<br>
-  🎯 Goal: To build meaningful applications and make a positive impact<br>
-  💡 Fun Fact: I love combining coding skills to tackle exciting challenges! 💻
-</h3>
+<hr/>
 
-<h2>Portfolio : https://mmi-portfolio.vercel.app/</h2>
-<h2>TECH STACK</h2>
+<h2>👨‍💻 About Me</h2>
+<ul>
+  <li>🚀 Creating impactful and scalable solutions</li>
+  <li>🌱 Currently mastering <b>Full Stack Development, Cloud, and DevOps</b></li>
+  <li>🎯 Goal: Build meaningful applications that make a positive impact</li>
+  <li>💡 Fun Fact: I enjoy blending creativity & logic to solve challenges</li>
+</ul>
 
+<h3>🌐 Portfolio: <a href="https://mmi-portfolio.vercel.app/" target="_blank">mmi-portfolio.vercel.app</a></h3>
+
+<hr/>
+
+<h2>⚡ Tech Stack</h2>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/sass/CC6699" height="40" alt="sass logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jquery/0769AD" height="40" alt="jquery logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" height="40" alt="tailwind css logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="express logo" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="Redux" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="Sass" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jQuery" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=canva" height="40" alt="Canva" />
 </div>
 
-<h2>GitHub Stats</h2>
+<hr/>
 
+<h2>📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdmonauwarulislam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdmonauwarulislam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdmonauwarulislam&show_icons=true&theme=dracula&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdmonauwarulislam&layout=compact&theme=dracula" height="150" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmonauwarulislam&theme=dark&hide_border=false"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmonauwarulislam&theme=dracula" height="150" alt="GitHub Streak" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator"/>
+<hr/>
 
+<h2>📈 Activity Graph</h2>
 <div align="center">
-  <img src="https://github.com/mdmonauwarulislam/mdmonauwarulislam/blob/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdmonauwarulislam&theme=github-compact" alt="Activity Graph" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator"/>
+<hr/>
 
-<h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mdmonauwarulislam&theme=github-compact"/>
-
-<h2>Profile Counter</h2>
-
+<h2>🌍 Profile Visitors</h2>
 <div align="center">
   <img src="https://profile-counter.glitch.me/mdmonauwarulislam/count.svg?" alt="Profile Counter"/>
 </div>
 
-<h2>Connect With Me!</h2>
+<hr/>
 
+<h2>🤝 Connect With Me</h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/mdmonauwarulislam/?trk=public_profile_browsemap&originalSubdomain=in" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+  <a href="https://linkedin.com/in/mdmonauwarulislam" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/mr.mannu/" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
+  <a href="https://x.com/monauwarulislam" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter"/>
   </a>
- <a href="https://x.com/monauwarulislam" style="text-decoration:none;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/X_logo.svg/1024px-X_logo.svg.png" width="52" height="40" alt="X logo" />
-</a>
-
-  <a href="https://discord.com/channels/@me/mdmonauwarulislam" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  <a href="https://instagram.com/mr.mannu" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
   </a>
-  <a href="https://www.youtube.com/@mdmonauwarulislam" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
+  <a href="https://discord.com/users/mdmonauwarulislam" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord"/>
+  </a>
+  <a href="https://youtube.com/@mdmonauwarulislam" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" height="40" alt="YouTube"/>
   </a>
 </div>
