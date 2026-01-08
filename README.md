@@ -46,11 +46,51 @@
 </div>
 
 <hr/>
-
 <h2>📊 GitHub Stats</h2>
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdmonauwarulislam&theme=dark&hide_border=false" /> 
-</div> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator"/> <div align="center"> <img src="https://github.com/mdmonauwarulislam/mdmonauwarulislam/blob/output/snake.svg" alt="Snake animation" /> </div> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Separator"/>
+<div align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=mdmonauwarulislam&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"
+    height="150"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdmonauwarulislam&layout=compact&langs_count=5&theme=dracula"
+    height="150"
+    alt="Top Languages"
+  />
+</div>
+
+<br/>
+
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mdmonauwarulislam&theme=dracula"
+    alt="GitHub Streak"
+  />
+</div>
+
+<br/>
+
+<img
+  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+  alt="Separator"
+/>
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/mdmonauwarulislam/mdmonauwarulislam/output/snake.svg"
+    alt="Snake animation"
+  />
+</div>
+
+<img
+  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+  alt="Separator"
+/>
+
+
 
 
 <hr/>
